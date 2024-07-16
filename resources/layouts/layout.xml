@@ -1,0 +1,4 @@
+<layout id="WatchFace">
+    <label id="ST1" x="center" y="center" font="Graphics.FONT_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" text="Is it Tuesday?" />
+    <label id="txt1" x="center" y="70%" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+</layout>
